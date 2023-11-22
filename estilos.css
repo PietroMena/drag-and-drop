@@ -1,0 +1,35 @@
+#espaço1,
+#espaço2,
+#espaço3,
+#espaço4,
+#espaço5,
+#espaço6 {
+  float: left;
+  width: 150px;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.glober {
+  display: grid;
+}
+
+body {
+  background-blend-mode: multiply;  
+  background-image:linear-gradient( rgb(22, 244, 233),rgba(0, 0, 0, 0.622));
+  color: aliceblue;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;  
+  height: 100vh;
+}
+
+input{
+background-color: transparent;
+color: white;
+width: 150px;
+height: 50px;
+
+}
